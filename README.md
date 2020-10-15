@@ -1,7 +1,10 @@
 # Kortast-Vagen-manhattan 
 Detta är ett program som hittar den kortaste vägen från en kordinat till en annan den andvänder sig av en algoritm som heter manhattan vilket gör att vägen får ta är vågrätt och lodrätt inte diagonal.
+
 För att kunna starta programet behöver du:
 1. Instrallera python på datorn du andvänder 
+2. Instrallera pygame
+3. Kopiera reository koden
 Ride-the-Road
 A simple car game made with Python-Pygame.
 
